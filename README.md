@@ -27,6 +27,19 @@ A list of brain imaging databases with multiple scans per subject.  Feel free to
   * 10 scans
 * Chen, Bing, et al. "Individual variability and test-retest reliability revealed by ten repeated resting-state brain scans over one month." PLoS One 10.12 (2015): e0144963.
 
+### HBN-SSI
+* Healthy Brain Network Serial Scanning Initiative (HBN-SSI)
+* http://fcon_1000.projects.nitrc.org/indi/hbn_ssi/index.html
+* Subjects
+  * N = 13
+  * 8 females, 5 males
+  * 21 to 42 years old (18-45 years old)
+* Data
+  * 1.5T Siemens
+  * sMRI, rsfMRI, task fMRI, DKI
+  * -14 scans
+* O’Connor, David, et al. "The Healthy Brain Network Serial Scanning Initiative: a resource for evaluating inter-individual differences and their reliabilities across scan conditions and sessions." GigaScience 6.2 (2017): 1-14.
+
 ### MSC
 * The Midnight Scan Club (MSC) dataset
 * https://openfmri.org/dataset/ds000224/
