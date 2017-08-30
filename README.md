@@ -14,6 +14,19 @@ A list of brain imaging databases with multiple scans per subject.  Feel free to
   * 20 scans
 * Maclaren, Julian, et al. "Reliability of brain volume measurements: A test-retest dataset." Scientific data 1 (2014): 140037.
 
+### Day2day
+* Day2day: investigating daily variability of magnetic resonance imaging measures over half a year
+* Email to authors of https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-017-0383-y
+* Subjects
+  * N = 8
+  * 6 female, 2 males
+  * 24-32 years old
+* Data
+  * 3T Siemens 
+  * sMRI, rsfMRI, T2 Hippocampus, DTI, MRS
+  * 11-50 scans
+* Filevich, Elisa, et al. "Day2day: investigating daily variability of magnetic resonance imaging measures over half a year." BMC neuroscience 18.1 (2017): 65.
+
 ### CCBD
 * Center for Cognition and Brain Disorders (CCBD) at Hangzhou Normal University
 * 10.6084/m9.figshare.2007483
