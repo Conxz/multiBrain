@@ -130,3 +130,16 @@ A list of brain imaging databases with multiple scans per subject.  Feel free to
   * sMRI
   * 10-24 scans
 * Yang, Chung-Yi, et al. "Reproducibility of brain morphometry from short-term repeat clinical MRI examinations: a retrospective study." PloS one 11.1 (2016): e0146913.
+
+### A sample of 8 healthy traveling subjects
+* ?
+* No download link
+* Subjects
+  * N = 8
+  * 4 females, 4 males
+  * 26.9 ± 4.3 years
+* Data
+  * 8 3 T MR scanners with 3 different machine models across the United States and Canada
+  * sMRI, rsfMRI
+  * 16 scans
+* Cao, Hengyi, et al. "Toward Leveraging Human Connectomic Data in Large Consortia: Generalizability of fMRI-Based Brain Graphs Across Sites, Sessions, and Paradigms." Cerebral Cortex (2018).
