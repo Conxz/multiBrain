@@ -161,7 +161,7 @@ A list of brain imaging databases with multiple scans per subject.  Feel free to
 * Data
   * 3T scanners/ 8 healthy adults acted as traveling phantoms, and were scanned twice at each of the four sites 
   * 1.5 T Siemens Sonata at UA, 3 T Siemens Trio at QU and UM, and 3 T Philips Intera at UBC
-* 
+* Long, Xiangyu, et al. "Sensorimotor network alterations in children and youth with prenatal alcohol exposure." Human brain mapping (2018).
 * Sites
   * University of Alberta (UA)
   * Queen's University (QU)
