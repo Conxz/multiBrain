@@ -143,3 +143,27 @@ A list of brain imaging databases with multiple scans per subject.  Feel free to
   * sMRI, rsfMRI
   * 16 scans
 * Cao, Hengyi, et al. "Toward Leveraging Human Connectomic Data in Large Consortia: Generalizability of fMRI-Based Brain Graphs Across Sites, Sessions, and Paradigms." Cerebral Cortex (2018).
+* Sites
+  * Emory University
+  * Harvard University
+  * University of Calgary 
+  * University of California Los Angeles (UCLA)
+  * University of California San Diego (UCSD) 
+  * University of North Carolina Chapel Hill (UNC) 
+  * Yale University 
+  * Zucker Hillside Hospital (ZHH)
+  
+### 8 healthy traveling subjects
+* ?
+* No download link
+* Subjects
+  * N = 8
+* Data
+  * 3T scanners/ 8 healthy adults acted as traveling phantoms, and were scanned twice at each of the four sites 
+  * 1.5 T Siemens Sonata at UA, 3 T Siemens Trio at QU and UM, and 3 T Philips Intera at UBC
+* 
+* Sites
+  * University of Alberta (UA)
+  * Queen's University (QU)
+  * University of Manitoba (UM)
+  * University of British Columbia (UBC)
