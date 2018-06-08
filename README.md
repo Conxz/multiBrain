@@ -1,6 +1,18 @@
 # multiBrain
 A list of brain imaging databases with multiple scans per subject.  Feel free to update the list via 'pull requests'.
 
+### Human brain diffusion-weighted MRI, collected with high diffusion-weighting angular resolution and repeated measurements at multiple diffusion-weighting strengths
+* https://purl.stanford.edu/ng782rw8378
+* Subjects
+  * N =2
+  * 2 males, age 27 and 36
+* Data
+  * 3T GE
+  * dMRI
+  * 2 scans in each of b=1000, 2000, 4000
+* Rokem et al. (2015) "Evaluating the Accuracy of Diffusion MRI Models in White Matter" http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123272
+
+
 ### Maclaren test-retest brain volume dataset
 * Maclaren test-retest brain volume dataset
 * https://openfmri.org/dataset/ds000239/
