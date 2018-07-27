@@ -195,3 +195,11 @@ A list of brain imaging databases with multiple scans per subject.  Feel free to
   * fMRI + T1
 * Schulte, Laura H., and Arne May. "The migraine generator revisited: continuous scanning of the migraine cycle over 30 days and three spontaneous attacks." Brain 139.7 (2016): 1987-1993.
 
+### A dataset for the test-retest reliability assessment of EEG & ERP quantities
+* This data package contains single-trial ERPs from 4 participants, each tested in 10 sessions on 10 different days.
+* https://figshare.com/articles/A_dataset_for_the_test-retest_reliability_assessment_of_EEG_ERP_quantities/2068626
+* Subject
+  * N = 4
+* Data
+  * Biosemi data in BDF format were recorded from 128 electrodes at 512 Hz.
+  
