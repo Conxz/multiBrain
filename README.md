@@ -1,18 +1,6 @@
 # multiBrain
 A list of brain imaging databases with multiple (e.g., more than 3) scans per subject.  Feel free to update the list via 'pull requests'.
 
-### Human brain diffusion-weighted MRI
-* Collected with high diffusion-weighting angular resolution and repeated measurements at multiple diffusion-weighting strengths
-* https://purl.stanford.edu/ng782rw8378
-* Subjects
-  * N =2
-  * 2 males, age 27 and 36
-* Data
-  * 3T GE
-  * dMRI
-  * 2 scans in each of b=1000, 2000, 4000
-* Rokem et al. (2015) "Evaluating the Accuracy of Diffusion MRI Models in White Matter" http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123272
-
 
 ### Maclaren test-retest brain volume dataset
 * Maclaren test-retest brain volume dataset
@@ -24,7 +12,7 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * Data
   * 3T GE
   * sMRI
-  * 20 scans
+  * **20 scans**
 * Maclaren, Julian, et al. "Reliability of brain volume measurements: A test-retest dataset." Scientific data 1 (2014): 140037.
 
 ### Day2day
@@ -37,7 +25,7 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * Data
   * 3T Siemens 
   * sMRI, rsfMRI, T2 Hippocampus, DTI, MRS
-  * 11-50 scans
+  * **11-50 scans**
 * Filevich, Elisa, et al. "Day2day: investigating daily variability of magnetic resonance imaging measures over half a year." BMC neuroscience 18.1 (2017): 65.
 
 ### CCBD
@@ -50,7 +38,7 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * Data
   * 3T GE
   * sMRI, rsfMRI
-  * 10 scans
+  * **10 scans**
 * Chen, Bing, et al. "Individual variability and test-retest reliability revealed by ten repeated resting-state brain scans over one month." PLoS One 10.12 (2015): e0144963.
 
 ### HBN-SSI
@@ -63,21 +51,8 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * Data
   * 1.5T Siemens
   * sMRI, rsfMRI, task fMRI, DKI
-  * -14 scans
+  * **-14 scans**
 * O’Connor, David, et al. "The Healthy Brain Network Serial Scanning Initiative: a resource for evaluating inter-individual differences and their reliabilities across scan conditions and sessions." GigaScience 6.2 (2017): 1-14.
-
-### MSC
-* The Midnight Scan Club (MSC) dataset
-* https://openfmri.org/dataset/ds000224/
-* Subjects
-  * N = 10
-  * 5 females, 5 males
-  * 24-34 years old
-* Data
-  * 3T Siemens
-  * sMRI, T2, MRA, MRV, rsfMRI, task fMRI
-  * 4 scans for sMRI/T2/MRA, 8 scans for MRV, 10 scans for rsfMRI/task fMRI
-* Gordon, Evan M., et al. "Precision Functional Mapping of Individual Human Brains." Neuron (2017).
 
 ### MyConnectome
 * The MyConnectome project
@@ -89,7 +64,7 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * Data
   * 3T Siemens 
   * sMRI, rsfMRI, task fMRI, T2
-  * 104 scans
+  * **104 scans**
 * Poldrack, Russell A., et al. "Long-term neural and physiological phenotyping of a single human." Nature communications 6 (2015): 8885.
 
 ### Kirby Weekly
@@ -102,21 +77,8 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * Data
   * 3T Philips
   * sMRI, rsfMRI
-  * 158 scans
+  * **158 scans**
 * Choe, Ann S., et al. "Reproducibility and temporal structure in weekly resting-state fMRI over a period of 3.5 years." PloS one 10.10 (2015): e0140134.
-
-### Reproducibility of quantitative structural and physiological MRI measurements
-* Reproducibility of quantitative structural and physiological MRI measurements
-* 
-* Subjects
-  * N = 25
-  * 5 females, 20 males
-  * 18-41 years old
-* Data
-  * 3T Siemens
-  * sMRI, dMRI, T2, ASL, MRS
-  * 3 scans
-* McGuire, Stephen A., et al. "Reproducibility of quantitative structural and physiological MRI measurements." Brain and Behavior (2017).
 
 ### MASSIVE
 * Multiple Acquisitions for Standardization of Structural Imaging Validation and Evaluation
@@ -180,6 +142,32 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * Queen's University (QU)
   * University of Manitoba (UM)
   * University of British Columbia (UBC)
+
+### MSC
+* The Midnight Scan Club (MSC) dataset
+* https://openfmri.org/dataset/ds000224/
+* Subjects
+  * N = 10
+  * 5 females, 5 males
+  * 24-34 years old
+* Data
+  * 3T Siemens
+  * sMRI, T2, MRA, MRV, rsfMRI, task fMRI
+  * 4 scans for sMRI/T2/MRA, 8 scans for MRV, 10 scans for rsfMRI/task fMRI
+* Gordon, Evan M., et al. "Precision Functional Mapping of Individual Human Brains." Neuron (2017).
+
+### Reproducibility of quantitative structural and physiological MRI measurements
+* Reproducibility of quantitative structural and physiological MRI measurements
+* 
+* Subjects
+  * N = 25
+  * 5 females, 20 males
+  * 18-41 years old
+* Data
+  * 3T Siemens
+  * sMRI, dMRI, T2, ASL, MRS
+  * 3 scans
+* McGuire, Stephen A., et al. "Reproducibility of quantitative structural and physiological MRI measurements." Brain and Behavior (2017).
 
 ### The brain scans of Taylor Hanayik
 * This repository contains neuroimaging data of Taylor Hanayik since 2015 (age 24).
@@ -319,6 +307,18 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * T1, DWI
   * scanned twice on a single day, subsample of N = 15 had a third session in same day and a 2-week follow-up
 * Boekel, W., B. U. Forstmann, and M. C. Keuken. "A test‐retest reliability analysis of diffusion measures of white matter tracts relevant for cognitive control." Psychophysiology 54.1 (2017): 24-33.
+
+### Human brain diffusion-weighted MRI
+* Collected with high diffusion-weighting angular resolution and repeated measurements at multiple diffusion-weighting strengths
+* https://purl.stanford.edu/ng782rw8378
+* Subjects
+  * N =2
+  * 2 males, age 27 and 36
+* Data
+  * 3T GE
+  * dMRI
+  * 2 scans in each of b=1000, 2000, 4000
+* Rokem et al. (2015) "Evaluating the Accuracy of Diffusion MRI Models in White Matter" http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123272
 
 
 
