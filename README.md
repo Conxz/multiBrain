@@ -240,3 +240,13 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * two/three days apart
 * Gorgolewski, Krzysztof J., et al. "Single subject fMRI test–retest reliability metrics and confounding factors." Neuroimage 69 (2013): 231-243.
 
+### Multi-parametric neuroimaging reproducibility
+* Multi-parametric neuroimaging reproducibility: A 3-T resource study
+* Subject 
+  * N = 21, 11M/10F
+  * 22-61 years old
+* Data 
+  * multiple paramatric scanning
+  * T1, DTI, rs-fMRI, ASL, & QT1, QT2, et al.
+* Landman, Bennett A., et al. "Multi-parametric neuroimaging reproducibility: a 3-T resource study." Neuroimage 54.4 (2011): 2854-2866.
+
