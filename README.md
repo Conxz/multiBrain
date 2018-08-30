@@ -262,3 +262,14 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * two sessions, multiple scans per session
 * Gorgolewski, Krzysztof J., et al. "A high resolution 7-Tesla resting-state fMRI test-retest dataset with cognitive and physiological measures." Scientific data 2 (2015): 140054.
 
+### Duke ScanRescanData
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782252/
+* Subject
+  * N = 23, 9 females
+  * mean age 23.3, sd = 3.3
+* Data
+  * 3T scanner
+  * T1
+  * 4 scans, 7-9 days apart between 1-2 and 3-4
+* Morey, Rajendra A., et al. "Scan–rescan reliability of subcortical brain volumes derived from automated segmentation." Human brain mapping 31.11 (2010): 1751-1762.
+
