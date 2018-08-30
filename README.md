@@ -250,3 +250,15 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * T1, DTI, rs-fMRI, ASL, & QT1, QT2, et al.
 * Landman, Bennett A., et al. "Multi-parametric neuroimaging reproducibility: a 3-T resource study." Neuroimage 54.4 (2011): 2854-2866.
 
+### A high resolution 7-Tesla resting-state fMRI test-retest dataset with cognitive and physiological measures
+* A high resolution 7-Tesla resting-state fMRI test-retest dataset with cognitive and physiological measures
+* http://openscience.cbs.mpg.de/7t_trt/
+* Subject
+  * N = 22, 12M/10F
+  * 21-30
+* Data
+  * 7T scanner
+  * T1, rs-fMRI, and prefrontal submillimeter (0.75mm, TR=4s) rs-fMRI scan
+  * two sessions, multiple scans per session
+* Gorgolewski, Krzysztof J., et al. "A high resolution 7-Tesla resting-state fMRI test-retest dataset with cognitive and physiological measures." Scientific data 2 (2015): 140054.
+
