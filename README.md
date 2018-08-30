@@ -308,5 +308,17 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * T1, DTI, rs-fMRI, ASL, PET
 * https://www.oasis-brains.org/
 
+### A test–retest reliability analysis of diffusion measures
+* A test–retest reliability analysis of diffusion measures
+* http://www.nitrc.org/projects/dwi_test-retest/.
+* Subject
+  * N = 34, 18 females
+  * 19.17-35.67 years old
+* Data
+  * 3T scanner
+  * T1, DWI
+  * scanned twice on a single day, subsample of N = 15 had a third session in same day and a 2-week follow-up
+* Boekel, W., B. U. Forstmann, and M. C. Keuken. "A test‐retest reliability analysis of diffusion measures of white matter tracts relevant for cognitive control." Psychophysiology 54.1 (2017): 24-33.
+
 
 
