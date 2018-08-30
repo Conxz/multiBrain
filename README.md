@@ -1,7 +1,8 @@
 # multiBrain
 A list of brain imaging databases with multiple scans per subject.  Feel free to update the list via 'pull requests'.
 
-### Human brain diffusion-weighted MRI, collected with high diffusion-weighting angular resolution and repeated measurements at multiple diffusion-weighting strengths
+### Human brain diffusion-weighted MRI
+* Collected with high diffusion-weighting angular resolution and repeated measurements at multiple diffusion-weighting strengths
 * https://purl.stanford.edu/ng782rw8378
 * Subjects
   * N =2
