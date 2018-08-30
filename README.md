@@ -228,3 +228,15 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * Data
   * Biosemi data in BDF format were recorded from 128 electrodes at 512 Hz.
   
+### A dataset with T1 and multiple task fMRI
+* Single subject fMRI test–retest reliability metrics and confounding factors
+* https://www.sciencedirect.com/science/article/pii/S1053811912010890?via%3Dihub
+* Subject
+  * N = 10, 50-58 years
+  * 2 sessions, T1 and 4 tasks in each session
+* Data
+  * GE 1.5T 
+  * T1 & task fMRI
+  * two/three days apart
+* Gorgolewski, Krzysztof J., et al. "Single subject fMRI test–retest reliability metrics and confounding factors." Neuroimage 69 (2013): 231-243.
+
