@@ -156,6 +156,17 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * 4 scans for sMRI/T2/MRA, 8 scans for MRV, 10 scans for rsfMRI/task fMRI
 * Gordon, Evan M., et al. "Precision Functional Mapping of Individual Human Brains." Neuron (2017).
 
+### BOLD5000
+* BOLD5000: A public fMRI dataset of 5000 images
+* https://bold5000.github.io/index.html
+* Subjects
+  * N = 4
+* Data
+  * 3T Siemens
+  * 15 fMRI sessions + 1 T1 and diffusion session
+  * fMRI dataset collected on 4 subjects, each observing 5,254 images
+* https://arxiv.org/abs/1809.01281
+
 ### Reproducibility of quantitative structural and physiological MRI measurements
 * Reproducibility of quantitative structural and physiological MRI measurements
 * 
