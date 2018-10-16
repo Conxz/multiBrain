@@ -331,5 +331,17 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * 2 scans in each of b=1000, 2000, 4000
 * Rokem et al. (2015) "Evaluating the Accuracy of Diffusion MRI Models in White Matter" http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123272
 
-
+### 100 runs at 3T
+* Three subjects were scanned on a General Electric 3T MRI scanner. All subjects underwent 100 functional runs
+* https://openneuro.org/datasets/ds001553/versions/1.0.0
+* Subjects
+  * N =3
+  * 1 male, 2 females
+  * age= 27(2.5) years
+  * right handed
+* Data
+  * General Electric 3T MRI scanner
+  * task and resting-state fMRI
+  * 100 functional runs, which consisted of five blocks of stimulation (20 s: flickering checkerboard at 8 Hz + letter/number discrimination task) and 40 s of rest
+* Gonzalez-Castillo, Javier, et al. "Whole-brain, time-locked activation with simple tasks revealed using massive averaging and model-free analysis." Proceedings of the National Academy of Sciences (2012): 201121049.
 
