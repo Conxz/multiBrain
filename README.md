@@ -156,6 +156,37 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * 4 scans for sMRI/T2/MRA, 8 scans for MRV, 10 scans for rsfMRI/task fMRI
 * Gordon, Evan M., et al. "Precision Functional Mapping of Individual Human Brains." Neuron (2017).
 
+### Yale Test-Retest Dataset
+* Yale Test-Retest Dataset
+* http://fcon_1000.projects.nitrc.org/indi/retro/yale_trt.html
+* Subjects
+  * N = 12
+* Data
+  * T1 and rsfMRI
+  * 144 min of functional data was collected for each subject (4 sessions/subject × 6 runs/session × 6 min/run)
+* Noble, S., Spann, M. N., Tokoglu, F., Shen, X., Constable, R. T., & Scheinost, D. (2017). Influences on the test–retest reliability of functional connectivity MRI and its relationship with behavioral utility. Cerebral Cortex, 27(11), 5415-5429.
+
+### Yale High-Resolution Controls Dataset
+* Yale High-Resolution Controls Dataset
+* http://fcon_1000.projects.nitrc.org/indi/retro/yale_hires.html
+* Subjects
+  * N = 120
+* Data
+  * T1 and rsfMRI
+  * 717 functional scans (120 subjects x 6 runs/subject - 3 missing runs)
+  * 240 anatomical scans (120 subjects x 2 scans/subject)
+* Finn, E. S., Shen, X., Scheinost, D., Rosenberg, M. D., Huang, J., Chun, M. M., ... & Constable, R. T. (2015). Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity. Nature neuroscience, 18(11), 1664.
+
+### Yale Low-Resolution Controls Dataset
+* Yale Low-Resolution Controls Dataset
+* http://fcon_1000.projects.nitrc.org/indi/retro/yale_lowres.html
+* Subjects
+  * N = 100
+* Data
+  * T1 and rsfMRI
+  * 800 functional scans (100 subjects x 8 runs/subject)
+  * 200 anatomical scans (100 subjects x 2 scans/subject)
+
 ### BOLD5000
 * BOLD5000: A public fMRI dataset of 5000 images
 * https://bold5000.github.io/index.html
