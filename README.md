@@ -220,15 +220,6 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * plan to collect at least one structural image per month 
 * ref?
 
-### The brain scans of Taylor Hanayik
-* This repository contains neuroimaging data of Taylor Hanayik since 2015 (age 24).
-* https://github.com/hanayik/Taylor-Hanayik-Brain-Scans
-* Subjects
-  * N = 1
-* Data
-  * plan to collect at least one structural image per month 
-* ref?
-
 ### Continuous scanning of the migraine cycle over 30 days
 * Subject
   * N = 1, female
