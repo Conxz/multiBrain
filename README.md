@@ -1,6 +1,18 @@
 # multiBrain
 A list of brain imaging databases with multiple (e.g., more than 3) scans per subject.  Feel free to update the list via 'pull requests'.
 
+### Canadian subject dataset (Csub)
+* A single individual over 2.5 years, 13 sites and 3 vendors
+* No link so far
+* Subjects
+ * N = 1
+ * male
+ * 42 years old
+* Data 
+ * 13 sites, 3T Philips, Siemens and GE
+ * sMRI, rsfMRI
+ * 25 scanning sessions
+* Multivariate consistency of resting-state fMRI connectivity maps acquired on a single individual over 2.5 years, 13 sites and 3 vendors, doi: https://doi.org/10.1101/497743
 
 ### Maclaren test-retest brain volume dataset
 * Maclaren test-retest brain volume dataset
