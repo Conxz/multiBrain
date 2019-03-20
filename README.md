@@ -395,7 +395,7 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * https://openneuro.org/datasets/ds001553/versions/1.0.0
 * Subjects
   * N =3
-  * 1 male, 2 females
+  * 1 males, 2 females
   * age= 27(2.5) years
   * right handed
 * Data
@@ -404,3 +404,16 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * 100 functional runs, which consisted of five blocks of stimulation (20 s: flickering checkerboard at 8 Hz + letter/number discrimination task) and 40 s of rest
 * Gonzalez-Castillo, Javier, et al. "Whole-brain, time-locked activation with simple tasks revealed using massive averaging and model-free analysis." Proceedings of the National Academy of Sciences (2012): 201121049.
 
+### Individual Brain Charting
+* Individual brain charting: high resolution mapping of 12 human brains
+* https://project.inria.fr/IBC/
+* https://openfmri.org/dataset/ds000244/
+* Subjects
+  * N = 12
+  * 10 males, 2 females
+  * age between 26 and 40 years old (median = 34.5 years) 
+* Data
+  * Siemens 3T 
+  * T1/T2/dMRI/task fMRI
+  * multiple tasks for each subject, Spatial, Standard, Social, Emotional, Emotion, Gambling, Motor, Language, Relational, WM
+* Pinho, Ana Luísa, et al. "Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping." Scientific data 5 (2018).
