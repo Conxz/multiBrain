@@ -1,6 +1,17 @@
 # multiBrain
 A list of brain imaging databases with multiple (e.g., more than 3) scans per subject.  Feel free to update the list via 'pull requests'.
 
+### Quantified Scientist: Tracking Myself
+* Quantified Scientist: Tracking Myself
+* https://www.pintofscience.nl/nijmegen-quantified-scientist-track
+* Subjects
+  * N = 1
+  * male
+* Data
+  * Brain MRI, EEG
+  * Rob started about 1.5 years ago and has spent about 11 hours a week measuring things
+* https://www.evernote.com/l/ALvoejuj8OdPpos0YVuCKS9iIaiAUIupnn0
+
 ### The Single Individual volunteer for Multiple Observations across Networks (SIMON) MRI dataset
 * a sample of convenience of one healthy male aged between 29 and 46 years old, scanned in 73 sessions at multiple sites and with various scanner models
 * http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html
