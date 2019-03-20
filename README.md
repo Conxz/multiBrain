@@ -7,6 +7,7 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * Subjects
   * N = 1
   * male
+  * a PhD student
 * Data
   * Brain MRI, EEG
   * Rob started about 1.5 years ago and has spent about 11 hours a week measuring things
