@@ -1,6 +1,19 @@
 # multiBrain
 A list of brain imaging databases with multiple (e.g., more than 3) scans per subject.  Feel free to update the list via 'pull requests'.
 
+### Decoded Neurofeedback (DecNef) Project
+* TRAVELING SUBJECTS DATA
+* https://bicr-resource.atr.jp/decnefpro/
+* Subjects
+  * N = 9
+  * male
+  * age range: 24–32 y; mean age: 27 ± 2.6 y
+* Data
+  * MRI, rsfMRI
+  * scanned at each of 12 sites
+  * GE, SIEMENS, Philips
+* Yamashita, Ayumu, et al. "Harmonization of resting-state functional MRI data across multiple imaging sites via the separation of site differences into sampling bias and measurement bias." PLOS Biology 17.4 (2019): e3000042.
+
 ### Quantified Scientist: Tracking Myself
 * Quantified Scientist: Tracking Myself
 * https://www.pintofscience.nl/nijmegen-quantified-scientist-track
