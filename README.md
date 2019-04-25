@@ -1,6 +1,19 @@
 # multiBrain
 A list of brain imaging databases with multiple (e.g., more than 3) scans per subject.  Feel free to update the list via 'pull requests'.
 
+### Travelling Human Phantoms
+* A longitudinal human phantom reliability study of multi-center T1-weighted, DTI, and resting state fMRI data
+* https://www.sciencedirect.com/science/article/pii/S0925492717302883
+* Subjects
+  * N = 4
+  * male
+  * age range: 34-59
+* Data
+  * MRI, dMRI, rsfMRI
+  * 3/6/6/9 scans on 5 scaners in 3 years
+  * various scanners
+* Hawco, Colin, et al. "A longitudinal human phantom reliability study of multi-center T1-weighted, DTI, and resting state fMRI data." Psychiatry Research: Neuroimaging 282 (2018): 134-142.
+
 ### Decoded Neurofeedback (DecNef) Project
 * TRAVELING SUBJECTS DATA
 * https://bicr-resource.atr.jp/decnefpro/
