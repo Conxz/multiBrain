@@ -1,6 +1,19 @@
 # multiBrain
 A list of brain imaging databases with multiple (e.g., more than 3) scans per subject.  Feel free to update the list via 'pull requests'.
 
+### A densely sampled longitudinal dataset from healthy infants
+* a densely sampled longitudinal dataset with 210 serial MRI scans from 43 healthy infants, with each infant being scheduled to have 7 longitudinal scans at around 1, 3, 6, 9, 12, 18, and 24 mo of age
+* https://doi.org/10.1073/pnas.1821523116
+* Subjects
+  * N = 43
+  * males & females
+  * age range: 1-24 month
+* Data
+  * MRI
+  * 7 repetitions, at around 1, 3, 6, 9, 12, 18, and 24 mo of age
+  * Siemens 3T
+* Data not open, https://doi.org/10.1073/pnas.1821523116
+
 ### A large single-participant fMRI dataset for probing brain responses to naturalistic stimuli in space and time
 * A large single-participant fMRI dataset for probing brain responses to naturalistic stimuli in space and time
 * https://www.biorxiv.org/content/10.1101/687681v1
