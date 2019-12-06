@@ -1,17 +1,16 @@
 # multiBrain
 A list of brain imaging databases with multiple (e.g., more than 3) scans per subject.  Feel free to update the list via 'pull requests'.
 
-### 
-* A single female subject that was scanned for 30 consecutive days.
+### A single female subject that was scanned for 30 consecutive days.
 * Functional reorganization of brain networks across the human menstrual cycle https://doi.org/10.1101/866913
 * Subjects
- * N = 1
- * female
- * age: 23 years old
+  * N = 1
+  * female
+  * age: 23 years old
 * Data
- * MRI/fMRI/Behavioral assessments/Endocrine procedures
- * The participant underwent daily testing for 30 consecutive days
- * Siemens 3T Prisma
+  * MRI/fMRI/Behavioral assessments/Endocrine procedures
+  * The participant underwent daily testing for 30 consecutive days
+  * Siemens 3T Prisma
 * MRI data, code, and daily behavioral assessments will be publicly accessible upon publication. 
 * https://doi.org/10.1101/866913
 
