@@ -482,3 +482,15 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
   * T1/T2/dMRI/task fMRI
   * multiple tasks for each subject, Spatial, Standard, Social, Emotional, Emotion, Gambling, Motor, Language, Relational, WM
 * Pinho, Ana Luísa, et al. "Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping." Scientific data 5 (2018).
+
+### ISBI2015 Longitudinal Multiple Sclerosis Lesion Segmentation
+* Longitudinal Multiple Sclerosis
+* https://smart-stats-tools.org/lesion-challenge
+* Subjects
+  * N = 9, 5 subjects provided ROI
+  * 4 males, 15 females
+* Data
+  * a 3.0 Tesla MRI scanner
+  * T1/T2/FLAIR/PD
+  * each subject has 4 ~ 6 time-point scans
+* Carass, A., Roy, S., et al. (2017). Longitudinal multiple sclerosis lesion segmentation: Resource and challenge. NeuroImage, 148, 77–102
