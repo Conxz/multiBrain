@@ -484,7 +484,7 @@ A list of brain imaging databases with multiple (e.g., more than 3) scans per su
 * Pinho, Ana Luísa, et al. "Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping." Scientific data 5 (2018).
 
 ### ISBI2015 Longitudinal Multiple Sclerosis Lesion Segmentation
-* Longitudinal Multiple Sclerosis
+* Longitudinal multiple sclerosis lesion segmentation challenge
 * https://smart-stats-tools.org/lesion-challenge
 * Subjects
   * N = 9, 5 subjects provided ROI
